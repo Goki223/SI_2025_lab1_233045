@@ -1,0 +1,17 @@
+
+$ git log --oneline --graph --all
+*   9aa261e (HEAD -> master, origin/master, origin/HEAD) Merge branch '3-list-tasks-sorted-by-name'
+|\
+| * ee9d4fd (origin/3-list-tasks-sorted-by-name, 3-list-tasks-sorted-by-name) Implement ListTasksSortedByName
+* |   9c438d2 Merge pull request #11 from Goki223/2-find-all-completed-tasks
+|\ \
+| * | 20eae37 (origin/2-find-all-completed-tasks, 2-find-all-completed-tasks) Implement FindAllCompletedTasks
+| |/
+* |   1a2a574 Merge pull request #10 from Goki223/1-remove-a-task-by-name
+|\ \
+| |/
+|/|
+| * 3f4ff8f (origin/1-remove-a-task-by-name, 1-remove-a-task-by-name) Implement RemoveATaskByName
+|/
+* fc68f45 Add starter code
+* da701ea Initial commit
